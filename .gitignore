@@ -1,0 +1,34 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML Models
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Tensorflow
+*.pb
+*.data
+*.index
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config & environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+*_log.txt
+*scratch_log*

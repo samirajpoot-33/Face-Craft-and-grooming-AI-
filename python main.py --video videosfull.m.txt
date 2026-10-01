@@ -1,0 +1,1 @@
+python main.py --video videos/full.mp4 --camera coffee_shop_cam1
